@@ -5,3 +5,5 @@ this will create a merge error here
 this will create a merge conflict
 this edit is on branch "newbranch"
 Oh NO my head has been detatched!
+
+this line is being added from remote ssh
